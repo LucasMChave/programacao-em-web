@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <div>
-      Ola mundo
+      E A sports
     </div>
   );
 }
