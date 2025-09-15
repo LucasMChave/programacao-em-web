@@ -23,6 +23,9 @@ export default function Home() {
       <a href="https://www.linkedin.com/in/lucas-mourato-5b6a062b5/">
         LinkedIn
       </a>
+      <a href="">
+        Jogo da velha
+      </a>
     </div>
   );
 }
