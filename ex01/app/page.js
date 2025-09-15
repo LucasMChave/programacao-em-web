@@ -22,7 +22,7 @@ export default function Home() {
       <h3>Referencias:</h3>
       <a href="https://www.linkedin.com/in/lucas-mourato-5b6a062b5/">
         LinkedIn
-        <p></p>
+        <br/>
       </a>
       <a href="https://programacao-em-web.vercel.app">
         Jogo da velha
