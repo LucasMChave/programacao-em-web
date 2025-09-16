@@ -24,9 +24,9 @@ export default function Home() {
         LinkedIn
         <br/>
       </a>
-      <a href="/jogodavelha">
+      <Link href="/jogodavelha">
         Jogo da velha
-      </a>
+      </Link>
     </div>
   );
 }
