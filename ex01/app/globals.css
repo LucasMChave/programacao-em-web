@@ -18,7 +18,7 @@ body {
 
 body {
   color: aqua;
-  background: var(--background);
+  background: aqua;
   font-family: Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
