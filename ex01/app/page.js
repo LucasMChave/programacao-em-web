@@ -24,7 +24,7 @@ export default function Home() {
         LinkedIn
         <br/>
       </a>
-      <a href="https://programacao-em-web.vercel.app">
+      <a href="/jogodavelha">
         Jogo da velha
       </a>
     </div>
