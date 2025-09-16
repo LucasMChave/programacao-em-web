@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function Home() {
   return (
     <div>
@@ -31,6 +33,7 @@ export default function Home() {
         LinkedIn
         <br/>
       </a>
+      <Link href = '/jogodaforca'>Jogo da forca</Link>
     </div>
   );
 }
