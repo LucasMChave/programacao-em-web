@@ -31,9 +31,6 @@ export default function Home() {
         LinkedIn
         <br/>
       </a>
-      <Link href="/jogodavelha">
-        Jogo da forca
-      </Link>
     </div>
   );
 }
