@@ -1,9 +1,9 @@
 import Link from 'next/link';
-import style from 'page.module.css'
 
 export default function Home() {
   return (
     <div>
+      <audio src="/Assets/Bellhart OST EXTENDED - Hollow Knight Silksong.mp3" loop></audio>
       <h1>Lucas Mourato Aureliano de Melo</h1>
       <p>RA: 00000848725 | Estudante de C3 Unicap de 5º periodo | 22 anos de Idade</p>
       <img src="https://media.licdn.com/dms/image/v2/D4E03AQFYNW8K7zavWQ/profile-displayphoto-crop_800_800/B4EZjJN5aGHIAI-/0/1755722521089?e=1758758400&v=beta&t=fE9SdhydvdrHaPI36ect_FW1ts5kE8gR5Ze4sKgF38w"
@@ -30,11 +30,11 @@ export default function Home() {
       </p>
       <hr/>
       <h4>Referencias:</h4>
-      <a href="https://www.linkedin.com/in/lucas-mourato-5b6a062b5/">
+      <a href="https://www.linkedin.com/in/lucas-mourato-5b6a062b5/" target="_blank">
         LinkedIn
         <br/>
       </a>
-      <Link href = '/jogodaforca'>Jogo da forca</Link>
+      <Link href = "/jogodaforca" target="_blank">Jogo da forca</Link>
     </div>
   );
 }
