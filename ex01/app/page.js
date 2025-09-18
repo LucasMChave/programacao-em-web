@@ -3,12 +3,12 @@ import Link from 'next/link';
 export default function Home() {
   return (
     <div>
-      <audio src="/Assets/Bellhart-OST-EXTENDED-Hollow-Knight-Silksong.mp3" control loop muted>theme song</audio>
       <h1>Lucas Mourato Aureliano de Melo</h1>
       <p>RA: 00000848725 | Estudante de C3 Unicap de 5º periodo | 22 anos de Idade</p>
       <img src="https://media.licdn.com/dms/image/v2/D4E03AQFYNW8K7zavWQ/profile-displayphoto-crop_800_800/B4EZjJN5aGHIAI-/0/1755722521089?e=1758758400&v=beta&t=fE9SdhydvdrHaPI36ect_FW1ts5kE8gR5Ze4sKgF38w"
       alt="Foto do dito cujo" width="250" height="250"></img>
       <hr/>
+      <audio src="/Assets/Bellhart-OST-EXTENDED-Hollow-Knight-Silksong.mp3" control loop muted>theme song</audio>
       <h2>Bio:</h2>
       <p>
         Durante minha infância e adolescência, sempre gostei de videogames, passava minhas tardes jogando<br />e cresci com muitas das 
