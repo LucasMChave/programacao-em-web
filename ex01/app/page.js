@@ -4,13 +4,12 @@ import './maincss.css';
 
 export default function Home() {
   return (
-    <div>
+    <div className='user'>
       <h1>Lucas Mourato Aureliano de Melo</h1>
       <p>RA: 00000848725 | Estudante de C3 Unicap de 5º periodo | 22 anos de Idade</p>
       <Image src="/Assets/foto.jpg" alt="Foto do dito cujo" width="250" height="250"></Image><br />
       <i>Capre Diem - Horácio<sub>23 a.C</sub></i>
       <hr/>
-      <audio src="/Assets/Bellhart-OST-EXTENDED-Hollow-Knight-Sliksong.mp3" controls loop>theme song</audio>
       <h2>Biografia:</h2>
       <p>
         Durante minha infância e adolescência, sempre gostei de videogames, passava minhas tardes jogando<br />e cresci com muitas das 
