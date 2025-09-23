@@ -4,12 +4,11 @@ import './maincss.css';
 
 export default function Home() {
   return (
-    <div className='user'>
+    <div>
       <h1>Lucas Mourato Aureliano de Melo</h1>
       <p>RA: 00000848725 | Estudante de C3 Unicap de 5º periodo | 22 anos de Idade</p>
       <Image src="/Assets/foto.jpg" alt="Foto do dito cujo" width="250" height="250"></Image><br />
       <i>Capre Diem - Horácio<sub>23 a.C</sub></i>
-      <hr/>
       <h2>Biografia:</h2>
       <p>
         Durante minha infância e adolescência, sempre gostei de videogames, passava minhas tardes jogando<br />e cresci com muitas das 
@@ -21,7 +20,6 @@ export default function Home() {
         mesmo com esses impenclihos e<br />cadeiras problemas que tive durante o curso, ainda sigo em frente com intenção de completar
         o curso<br />de C3, para me provar capaz e ingressar na vida profissional.        
       </p>
-      <hr/>
       <h2>Capacidades</h2>
       <ul>
       <li>Programação em C e Java;</li>
@@ -29,7 +27,6 @@ export default function Home() {
       <li>Conhecimento avançado da língua inglesa;</li> 
       <li>Manejamento de projetos em grupo;</li>
       </ul>
-      <hr/>
       <h4>Referencias:</h4>
       <a href="https://www.linkedin.com/in/lucas-mourato-5b6a062b5/" target="_blank">
         LinkedIn
