@@ -33,6 +33,7 @@ export default function Home() {
         <br/>
       </a>
       <Link href = "/jogodaforca" target="_blank">Jogo da forca</Link>
+      <h4>poke</h4>
     </div>
   );
 }
