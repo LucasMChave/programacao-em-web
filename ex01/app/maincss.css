@@ -1,6 +1,8 @@
 body{
+    
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: rgb(100, 51, 100);
     border: 10px solid black;
 }
