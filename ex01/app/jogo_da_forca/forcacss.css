@@ -2,3 +2,9 @@ body{
     font-size: larger;
     color: brown;
 }
+
+Link{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
