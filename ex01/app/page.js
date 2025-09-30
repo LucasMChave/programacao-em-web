@@ -32,7 +32,7 @@ export default function Home() {
         LinkedIn
         <br/>
       </a>
-      <Link href = "/jogodaforca" target="_blank">Jogo da forca</Link>
+      <Link href = "/jogo_da_forca" target="_blank">Jogo da forca</Link>
     </div>
   );
 }

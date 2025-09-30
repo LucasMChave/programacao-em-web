@@ -1,4 +1,4 @@
-import '../maincss.css';
+import './forcacss.css';
 
 export default function Home() {
   return (
