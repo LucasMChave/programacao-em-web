@@ -7,7 +7,7 @@ export default function Home() {
     <div>
         <p>TBD</p>
         <Image src="/Assets/hangedman.png" alt="TBD" width="250" height="250"></Image>
-        <Link href = "/" target="_blank">VOLTAR</Link>
+        <Link href = "/">VOLTAR</Link>
     </div>
   );
 }
